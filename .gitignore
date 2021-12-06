@@ -1,0 +1,60 @@
+## SuiteCRM 8 ##
+
+###> symfony/framework-bundle ###
+/.env.local
+/.env.local.php
+/.env.*.local
+/config/secrets/prod/prod.decrypt.private.php
+/public/bundles/
+/var/
+/vendor/
+###< symfony/framework-bundle ###
+
+###> symfony/phpunit-bridge ###
+.phpunit
+.phpunit.result.cache
+/phpunit.xml
+###< symfony/phpunit-bridge ###
+
+###> ng serve ###
+/proxy.conf.local.json
+###< ng serve ###
+
+###> friendsofphp/php-cs-fixer ###
+/.php_cs
+/.php_cs.cache
+###< friendsofphp/php-cs-fixer ###
+
+# Symfony Logs
+/logs/
+!logs/.gitkeep
+
+# Symfony Cache
+/cache/
+
+# Dependencies
+node_modules
+
+# Compiled Output
+/public/
+/dist/
+
+# Custom
+/extensions/
+!extensions/.gitkeep
+
+# Tests
+tests/_output/
+tests/_support/_generated/
+!tests/_output/.gitkeep
+!tests/_support/_generated/.gitkeep
+
+# Composer
+composer.phar
+
+# htacess
+/.htaccess
+
+# SASS
+/public/legacy/themes/suite8/css/Dawn/style.css
+/public/legacy/themes/suite8/css/Noon/style.css
