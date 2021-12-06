@@ -1,0 +1,14 @@
+Mon Dec  6 11:59:07 2021 [876][1][FATAL] User update error: Temp User is not retrieved at ID 1, boolean given
+Mon Dec  6 11:59:07 2021 [876][1][FATAL] Email address save error
+Mon Dec  6 11:59:09 2021 [876][1][SECURITY] Setting logger_file_name to ''.
+Mon Dec  6 11:59:09 2021 [876][1][SECURITY] Invalid ext  logger_file_ext : ''.
+Mon Dec  6 11:59:09 2021 [876][1][SECURITY] Setting logger_file_ext to ''.
+Mon Dec  6 11:59:09 2021 [876][1][SECURITY] Log file extension can't be blank.
+Mon Dec  6 11:59:09 2021 [876][1][SECURITY] Log file extension can't be blank.
+Mon Dec  6 11:59:09 2021 [876][1][SECURITY] Setting logger_file_name to ''.
+Mon Dec  6 11:59:09 2021 [876][1][SECURITY] Invalid ext  logger_file_ext : ''.
+Mon Dec  6 11:59:09 2021 [876][1][SECURITY] Setting logger_file_ext to ''.
+Mon Dec  6 11:59:09 2021 [876][1][SECURITY] Log file extension can't be blank.
+Mon Dec  6 11:59:09 2021 [876][1][SECURITY] Log file extension can't be blank.
+Mon Dec  6 11:59:30 2021 [876][1][FATAL] Error: File [modules/SavedSearch/metadata/editviewdefs.php] is missing. Unable to create because no corresponding HTML file was found.
+Mon Dec  6 12:02:13 2021 [13812][1][FATAL] Error: File [modules/SavedSearch/metadata/editviewdefs.php] is missing. Unable to create because no corresponding HTML file was found.
